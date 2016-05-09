@@ -37,7 +37,7 @@ We are now going to steadily refine the diagram. First we want to try and ensure
 
 When performing these steps we must ensure it is performed in the order shown, as if we encapsulate first we just end up in hiding complexity, do help use remember this we use the acronym **O.R.E**
 
-###Life Preserver Phase 0
+###Life Preserver Phase 1
 
 The next activity on our diagram is to apply **O.R.E.** to the diagram and also as part of this we need to consider component naming. 
 
