@@ -20,7 +20,7 @@ The life preserver diagram is going to represent a bounded context, which is a p
 
 Withe the life preserver diagram we draw two concentric circles, the centre shows the core of our system, the outer layer represents the integration layer.
 
-<<LP diagram>>
+*LP diagram* TBD
 
 * **Core** the part of the system that represents the are where we have complete control over the change and development of the components. Each part of the core would usually represent a component that contributes value to the business i.e it makes us money
 * **Integration** in this layer we isolate all the parts of our core that have touch points into the outside world. We do not have full influence over when these components change. We usually divide up the integration layer where each section identifies the external interface it is connecting too. This could be an external system or another bounded context within our domain. We would create a component ins the integration layer for each touch point and it is this touch point that influences the changes in this component.
